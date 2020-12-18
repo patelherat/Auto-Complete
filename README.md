@@ -8,6 +8,7 @@ Like with many auto-complete tools, you can cycle througth a list of possibe wor
 <br />
 
 Below is the example output of the auto-complete system:-
+
 Given the file that contains one word per line:
 
 baz <br />
